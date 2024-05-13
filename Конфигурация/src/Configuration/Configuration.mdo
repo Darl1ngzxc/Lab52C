@@ -40,4 +40,5 @@
   </languages>
   <catalogs>Catalog.Амбары</catalogs>
   <catalogs>Catalog.Коровы</catalogs>
+  <documents>Document.ПомещениеКоровыВАмбар</documents>
 </mdclass:Configuration>

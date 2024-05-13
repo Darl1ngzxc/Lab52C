@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e7596df1-5d70-4b11-ba22-baf5dfc91172">
+  <producedTypes>
+    <objectType typeId="aaaf2561-3e32-4538-8486-88dc99be17dd" valueTypeId="332e71a2-110a-426f-b5ce-67e38c16a86f"/>
+    <refType typeId="fff3c893-caea-4146-ae68-2889514d28f4" valueTypeId="46473d3c-adf6-4d6f-9db9-0cd94781c458"/>
+    <selectionType typeId="9926b055-2d24-4c0f-a5a0-22c5e29f44a0" valueTypeId="5faf6704-1b13-4da8-9ee4-f4110881ad95"/>
+    <listType typeId="67cf57f6-f570-48cc-8837-96d1ec4a2f3d" valueTypeId="e4b02bd8-b4a8-4d2e-bb9c-f081c7a13602"/>
+    <managerType typeId="984aaee5-1ceb-4f55-a551-285420da8a43" valueTypeId="c316e6d1-b63d-461e-977f-66568635ebc7"/>
+  </producedTypes>
+  <name>ПомещениеКоровыВАмбар</name>
+  <synonym>
+    <key>ru</key>
+    <value>Помещение коровы в амбар</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.ПомещениеКоровыВАмбар.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>
