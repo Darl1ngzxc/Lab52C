@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="698bbc32-d2da-44fa-8431-c0b6bfc9b500">
+  <producedTypes>
+    <objectType typeId="5dfd19fc-26c8-4c1a-8195-6909490642ed" valueTypeId="543687bb-4022-484b-bef7-1b2a19b1f822"/>
+    <refType typeId="18426384-a5a4-496d-bb4b-a28bce456b78" valueTypeId="7fea3086-fef2-447d-9df8-3d8af4b7b0dc"/>
+    <selectionType typeId="9a25c25c-d4ae-4e87-800f-d6efa72ee25e" valueTypeId="1bef1938-78c5-425a-a51b-18ced2c156d3"/>
+    <listType typeId="da36d96d-85ec-4aee-924c-3426bb326cc3" valueTypeId="baa9752e-92cc-4fd0-bdec-6ee04380a732"/>
+    <managerType typeId="89c0777e-3017-4a67-95cd-4f7361bb4635" valueTypeId="9c9ad727-34d2-41ed-972f-8b0a28cd604f"/>
+  </producedTypes>
+  <name>Коровы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Коровы</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Коровы.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Коровы.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

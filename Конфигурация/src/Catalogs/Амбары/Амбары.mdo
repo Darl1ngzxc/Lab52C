@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c73d42ad-25c6-40bb-a2a6-ffd9317fa0fa">
+  <producedTypes>
+    <objectType typeId="6fc127d1-00e7-4993-9f25-03697a97fd9d" valueTypeId="1060cce1-8349-46bb-b723-c20b9e8e4b87"/>
+    <refType typeId="7f2600c6-941f-49b1-9d50-c028a7688f4e" valueTypeId="3c126411-e4aa-45c7-823e-986b132305f2"/>
+    <selectionType typeId="e166fe74-bd6a-4940-9fa3-205fdd94708a" valueTypeId="49f028d8-ae2a-4b7f-8eb0-af78fc54d22a"/>
+    <listType typeId="78cdba28-00d8-4ba0-9204-ae863507cb9f" valueTypeId="5c6582c3-3f14-495c-b877-65eb3e4dda46"/>
+    <managerType typeId="b971da05-130e-4437-a0aa-30b60abe6162" valueTypeId="bb0221bb-7847-47e1-a4e2-de79ae5a7b59"/>
+  </producedTypes>
+  <name>Амбары</name>
+  <synonym>
+    <key>ru</key>
+    <value>Амбары</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Амбары.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Амбары.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
