@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8d7ca520-f4a4-4c88-bb05-a7ba40a54f6e">
+  <producedTypes>
+    <objectType typeId="e3758f1b-190d-44fb-86ef-77cdb2d0511e" valueTypeId="fcd6dd0c-70c1-4912-9543-1ee6b9aec7d4"/>
+    <refType typeId="459ca996-2843-4b33-aa69-7ba4f91dc4b6" valueTypeId="508eb1b0-f737-41e1-8a16-627e7bfa40bb"/>
+    <selectionType typeId="0cb17f39-f724-4776-9bc9-0b1e84ca4548" valueTypeId="80eec242-e331-45d6-9259-73e40f92c871"/>
+    <listType typeId="a91e3b95-3726-4f41-8c9e-307ab67acbee" valueTypeId="72c18925-65c1-4f25-a00b-8218fcd18f5a"/>
+    <managerType typeId="bf537fc6-a796-4a8a-8f6d-39c2b7e32b7c" valueTypeId="ad4942f0-4b0c-4bd1-9f11-eb2e2008c0cf"/>
+  </producedTypes>
+  <name>СправочникGIT</name>
+  <synonym>
+    <key>ru</key>
+    <value>Справочник GIT</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.СправочникGIT.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.СправочникGIT.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

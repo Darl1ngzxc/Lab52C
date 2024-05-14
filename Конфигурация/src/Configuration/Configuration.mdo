@@ -40,5 +40,6 @@
   </languages>
   <catalogs>Catalog.Амбары</catalogs>
   <catalogs>Catalog.Коровы</catalogs>
+  <catalogs>Catalog.СправочникGIT</catalogs>
   <documents>Document.ПомещениеКоровыВАмбар</documents>
 </mdclass:Configuration>
